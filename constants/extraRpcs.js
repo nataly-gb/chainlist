@@ -5902,6 +5902,11 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.unifra,
       },
       {
+        url: "https://go.getblock.io/78430635365141ba810c0a9351ab03e5",
+        tracking: "none",
+        trackingDetails: privacyStatement.getblock,
+      },
+      {
         url: "https://1rpc.io/scroll",
         tracking: "none",
         trackingDetails: privacyStatement.onerpc,
